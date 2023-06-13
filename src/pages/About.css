@@ -1,3 +1,7 @@
+* {
+    font-size: x-large;
+}
+
 .split {
   height: 100%;
   width: 50%;
@@ -39,4 +43,5 @@
 .profile_image {
   width: 500px;
   height: auto;
+  border-radius: 50%;
 }
